@@ -1,6 +1,6 @@
 source ~/.config/nvim/plugins.vim
 source ~/.config/nvim/basic.vim
-source ~/.config/nvim/filetypes.vim
+"source ~/.config/nvim/filetypes.vim
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
